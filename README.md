@@ -1,3 +1,3 @@
 # Autenticação JWT com Context API e React Router
 
-Estes são os arquivos iniciais da aula sobre Context API que está disponível no [YouTube](https://youtu.be/AClyxTbfI08).
+Aplicação feita na aula "Autenticação JWT com ContextAPI e React Router" de Mateus Silva disponível no link: https://youtu.be/AClyxTbfI08
